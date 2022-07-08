@@ -2,6 +2,7 @@
 My Name is Will Atwood 
 - Exploring C# and the .NET framework
 - Angular vs React
+- MongoDB
 - Studying JavaScript and Full Stack Development
 - Open Source Software Advocate
 
