@@ -24,7 +24,7 @@ My Name is Will Atwood
 - Ubuntu Touch OS
 
 
-
+![alt text](https://lightwellinc.com/wp-content/uploads/2020/06/site-logo-el.svg)
 
 
 <!--
