@@ -24,10 +24,13 @@ My Name is Will Atwood
 - Ubuntu Touch OS
 
 
-![alt text](https://lightwellinc.com/wp-content/uploads/2020/06/site-logo-el.svg)
 
 
 <!--
+![alt text](https://lightwellinc.com/wp-content/uploads/2020/06/site-logo-el.svg)
+
+
+
 **Acid-Override/Acid-Override** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
