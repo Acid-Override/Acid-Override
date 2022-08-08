@@ -1,6 +1,7 @@
 ### Hi there 👋
 My Name is Will Atwood 
 - Java 
+- Oracle SQL
 - Exploring C# and the .NET framework
 - Angular vs React
 - MongoDB
