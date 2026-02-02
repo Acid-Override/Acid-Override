@@ -1,47 +1,28 @@
-### Hi there 👋
-My Name is Will Atwood 
-- Java 
-- Oracle SQL
-- Exploring C# and the .NET framework
-- Angular vs React
-- MongoDB
-- Studying JavaScript and Full Stack Development
-- Open Source Software Advocate
+# Will Atwood
 
-### 🔭 I’m currently working on ...
-- Products API backend for Store Front (https://github.com/NutmegGang/Products)
-- Store Front : Single Web App (https://github.com/AlpineRockies/front-end-capstone)
+Senior Java Developer specializing in high-performance distributed systems and production optimization.
 
-### 📫 How to reach me: ...
-* LinkedIn => https://www.linkedin.com/in/william-atwood/
+## Current Focus
+Building and optimizing microservices handling 3,000+ TPS at The Home Depot. Primary work involves performance engineering, distributed caching, and AI-augmented development workflows.
 
+## Technical Stack
+**Core**: Java 21 (Virtual Threads), Spring Boot, Quarkus, Cassandra, Kubernetes  
+**Performance**: JFR Profiling, Caffeine Caching (80-95% hit rates), GC Optimization, Resilience4j  
+**AI Tools**: GitHub Copilot, Claude (MCP), Google Gemini for JFR analysis  
+**Observability**: Prometheus, Grafana, Thanos, Micrometer, Distributed Tracing  
+**Data**: Kafka, Cassandra, MongoDB, PostgreSQL, Redis  
+**Infrastructure**: GCP, AWS, Kubernetes (KEDA), Docker, CI/CD (Bamboo)
 
-### 🌱 I’m currently learning ...
-- JavaScript
-- Full Stack Development
-- GNU/Linux
-- PostgreSQL database
-- Data Structures and Algorithims
-- Ubuntu Touch OS
+## Recent Work
+- Reduced CPU utilization by 40% and P95 latency by 42% on core sourcing services
+- Implemented production caching layer achieving 80-95% hit rates
+- Identified $500k+ in annual infrastructure cost savings through systematic optimization
+- Pioneered AI-augmented workflows integrating Claude MCP for deep codebase context
+- Built executive Grafana dashboards translating JVM metrics into business KPIs
 
+## Reach Me
+[LinkedIn](https://www.linkedin.com/in/william-atwood/) | Will.Atwood@galaxia.us | Avon, CT
 
-
-
-<!--
-![alt text](https://lightwellinc.com/wp-content/uploads/2020/06/site-logo-el.svg)
-
-
-
-**Acid-Override/Acid-Override** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+B.S. Aerospace Engineering, Embry-Riddle Aeronautical University  
+Advanced Software Engineering, Hack Reactor by Galvanize
